@@ -12,7 +12,6 @@ Spring Boot: Framework Java que simplifica a criação de aplicações web, redu
 
 Thymeleaf: Motor de templates para Java que permite criar interfaces de usuário dinâmicas e elegantes, facilitando a separação da lógica de apresentação da lógica de negócio.  
 
-![image](https://github.com/user-attachments/assets/634ceb24-14c3-4f11-9c20-4d3499415a39)
+![image](https://github.com/user-attachments/assets/e6876707-6849-41ea-9af0-9a93d872ae32)
 
-![image](https://github.com/user-attachments/assets/e4e054ce-23ec-46ce-b8da-c0e28e54dbe5)
-
+![image](https://github.com/user-attachments/assets/89a2151b-4147-456e-a785-d6a49ccafe43)
